@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Denise1991
-- 👀 I’m interested in data anayltics. I practice languages like python ,SQL & R
-- 🌱 I’m currently learning java for my job as a QA engineer
-- 📫 How to reach me 
-You can link me through my LinkedIn : Denise Longdon-Frimpong or email denise.frimpong@hotmail.com
+👋 Hi, I’m Denise, I live and work in Ghana 📍 as a software tester🧪 with over 3 years 🕒 experience. I have a keen eye for detail and a passion for ensuring the highest quality in software applications. I am meticulous with the focus on uncovering bugs🐞 and ensuring comprehensive test coverage. I have lots of experience with blackbox testing in biometric verification applications👤 and I’m currently learning java 🫕 to improve my automated testing skills as part of my job as a QA engineer 🔨 . I'm a continious learner📚 always looking for the most efficient ways to get my job done!
 
-<!---
-Denise1991/Denise1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+📫 How to reach me 
+You can link me through my LinkedIn :
 
- -💞 I'm looking to collaborate on...
---->
+🔗linkedin.com/in/denise-longdon-frimpong-61282245 
+
+📩 email denise.longdon91@gmail.com
+
